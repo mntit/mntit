@@ -1,10 +1,7 @@
-
-<!-- 
- <div align="center">
+  <div align="center">
   <img height="40" src="/icons/hacktheworld.gif"/>
--->
   <br><b>master of none</b><br>
-  
+
   <a href="https://www.instagram.com/mntit_">
     <img alt="Instagram" width="30px" src="/icons/instagram.png" />
   </a>
