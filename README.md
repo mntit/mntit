@@ -1,5 +1,8 @@
-<div align="center">
+
+<!-- 
+ <div align="center">
   <img height="40" src="/icons/hacktheworld.gif"/>
+-->
   <br><b>master of none</b><br>
   
   <a href="https://www.instagram.com/mntit_">
@@ -33,6 +36,7 @@
   <img src="/icons/git.svg" alt="Git" width="40px" style="padding-right:10px;" />
   <img src="/icons/github.png" alt="GitHub" width="40px" style="padding-right:10px;" />
 </p>
+
 
 
 
