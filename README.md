@@ -12,7 +12,7 @@
 
 <!--  -->
 <div align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3339841"
+ <img src="https://tryhackme-badges.s3.amazonaws.com/mntit.png" alt="Your Image Badge" />
 </div>
 
 <div align="center">
@@ -33,5 +33,6 @@
   <img src="/icons/git.svg" alt="Git" width="40px" style="padding-right:10px;" />
   <img src="/icons/github.png" alt="GitHub" width="40px" style="padding-right:10px;" />
 </p>
+
 
 
